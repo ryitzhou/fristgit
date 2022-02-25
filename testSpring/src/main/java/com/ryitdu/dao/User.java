@@ -1,6 +1,8 @@
 package com.ryitdu.dao;
 
 public class User {
-    String username;
+    private String username;
+
+    private String sex;
 
 }
